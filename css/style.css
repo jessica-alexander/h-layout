@@ -5,8 +5,11 @@ body {
 
 h1{
   color: #00bcd4;
-  margin-top: 10px;
   margin-left: 10px;
+}
+
+h1, h2{
+  margin-top: 10px;
 }
 
 
