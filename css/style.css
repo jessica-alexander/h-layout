@@ -1,11 +1,17 @@
 
 body {
   line-height: 1.5;
+
+}
+
+main {
+  margin-left: 10px;
 }
 
 h1{
   color: #00bcd4;
   margin-left: 10px;
+  font-family: 'Great Vibes', cursive;
 }
 
 h1, h2{
@@ -16,7 +22,7 @@ h1, h2{
 @media (max-width:600px) {
 
 .h1-title {
-  font-size: 22px;
+  font-size: 43px;
 }
 /*image size*/
   .i-size {
