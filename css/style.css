@@ -1,0 +1,20 @@
+
+body {
+  line-height: 1.5;
+}
+
+h1{
+  color: teal;
+}
+
+
+@media (max-width:600px) {
+
+.h1-title {
+  font-size: 22px;
+}
+/*image size*/
+  .i-size {
+    height: 300px;
+  }
+}
